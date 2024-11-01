@@ -1,6 +1,6 @@
 return {
-  {
-    "nvim-autopairs",
-    enabled = false,
-  },
+  -- {
+  --   "nvim-autopairs",
+  --   enabled = false,
+  -- },
 }
