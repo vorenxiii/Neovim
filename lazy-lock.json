@@ -28,6 +28,7 @@
   "plenary.nvim": { "branch": "master", "commit": "2d9b06177a975543726ce5c73fca176cedbffe9d" },
   "render-markdown.nvim": { "branch": "main", "commit": "34044cdfcc90b87f32eb962f1fcd9119fc1a62a5" },
   "telescope.nvim": { "branch": "master", "commit": "df534c3042572fb958586facd02841e10186707c" },
+  "tree-sitter-nu": { "branch": "main", "commit": "1561a947a5505d373e11ca337898e048ac2e389e" },
   "ui": { "branch": "v3.0", "commit": "e0891549ec3ccff7d68a57915e7af97c9608ffad" },
   "undotree": { "branch": "master", "commit": "78b5241191852ffa9bb5da5ff2ee033160798c3b" },
   "vim-closetag": { "branch": "master", "commit": "d0a562f8bdb107a50595aefe53b1a690460c3822" },
